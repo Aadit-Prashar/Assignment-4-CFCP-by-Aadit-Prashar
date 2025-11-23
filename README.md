@@ -46,3 +46,7 @@ git push -u origin main
 
 If your repo used master, then:
 git push -u origin master
+
+
+## Check Commands workflow
+Go to [Screenshots](https://github.com/Aadit-Prashar/Assignment-4-CFCP-by-Aadit-Prashar/tree/master/screenshots) for detailed image understanding.
